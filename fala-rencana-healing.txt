@@ -3,5 +3,7 @@ RENCANA FALA HEALING:
   * Beli Tenda
   * Beli Jaket Eiger
 - Lombok
+ * Beli Tenda Hirenaike
+ * Beli Celana Sheet
 - Gunung Rinjani
 - Gunung Latimojong
