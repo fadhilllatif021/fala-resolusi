@@ -4,3 +4,4 @@ RENCANA FALA HEALING:
   * Beli Jaket Eiger
 - Lombok
 - Gunung Rinjani
+- Gunung Latimojong
